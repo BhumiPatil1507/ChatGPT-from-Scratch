@@ -1,6 +1,6 @@
 # ChatGPT-from-Scratch
 
-Python in 1hr(https://www.youtube.com/watch?v=kqtD5dpn9C8)/n
+Python in 1hr(https://www.youtube.com/watch?v=kqtD5dpn9C8) 
 Introduction to NumPy(https://www.youtube.com/watch?v=QUT1VHiLmmI)
 Introduction to Pandas(https://www.youtube.com/watch?v=vmEHCJofslg)
 Matplotlib(https://www.youtube.com/watch?v=DAQNHzOcO5A)
