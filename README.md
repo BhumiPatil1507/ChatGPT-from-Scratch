@@ -6,7 +6,7 @@
 - [Introduction to Pandas] (https://www.youtube.com/watch?v=vmEHCJofslg)
 - [Matplotlib] (https://www.youtube.com/watch?v=DAQNHzOcO5A)
 - [The shorter way to explain things quickly and shortly] (https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) (74 to 84) & (86 to 91)
-- [The longer way] (https://www.youtube.com/watch?v=vStJoetOxJg&list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI)
+- [The longer way] (https://www.youtube.com/watch?v=vStJoetOxJg&list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI) & 
    (https://www.youtube.com/watch?v=ggWLvh484hs&list=PLyoNSC4BT4eVpykPF0Yx8C1Zs50XtD17L)
 - [PyTorch] (https://youtu.be/OIenNRt2bjg?si=u_NPn9nMcj0KOyZ7)
 - [Final Project] (https://youtu.be/kCc8FmEb1nY?si=mY3H9VJ5mWYmFZbF)
